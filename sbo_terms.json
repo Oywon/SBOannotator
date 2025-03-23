@@ -1,0 +1,1151 @@
+[
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000000",
+        "lang": "en",
+        "description": [
+            "Representation of an entity used in a systems biology knowledge reconstruction, such as a model, pathway, network."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "systems biology representation",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": true,
+        "short_form": "SBO_0000000",
+        "obo_id": "SBO:0000000",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000000?lang=en"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000000/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000000/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000000/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000000/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000000/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000001",
+        "lang": "en",
+        "description": [
+            "mathematical description that relates quantities of reactants to the reaction velocity."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "rate law",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000001",
+        "obo_id": "SBO:0000001",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000001/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000002",
+        "lang": "en",
+        "description": [
+            "A numerical value that defines certain characteristics of systems or system functions. It may be part of a calculation, but its value is not determined by the form of the equation itself, and may be arbitrarily assigned."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "quantitative systems description parameter",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000002",
+        "obo_id": "SBO:0000002",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000002/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000003",
+        "lang": "en",
+        "description": [
+            "The function of a physical or conceptual entity, that is its role, in the execution of an event or process."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "participant role",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000003",
+        "obo_id": "SBO:0000003",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000003/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000004",
+        "lang": "en",
+        "description": [
+            "Set of assumptions that underlay a mathematical description."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "modelling framework",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000004",
+        "obo_id": "SBO:0000004",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000004/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000005",
+        "lang": "en",
+        "description": [
+            "The description of a system in mathematical terms."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "obsolete mathematical expression",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000005",
+        "obo_id": "SBO:0000005",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000005/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000006",
+        "lang": "en",
+        "description": [
+            "A numerical value that represents the amount of some entity, process or mathematical function of the system."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "obsolete parameter",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000006",
+        "obo_id": "SBO:0000006",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000006/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000007",
+        "lang": "en",
+        "description": [
+            "The 'kind' of entity involved in some process, action or reaction in the system. This may be enzyme, simple chemical, etc.."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "obsolete participant type",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": false,
+        "is_root": false,
+        "short_form": "SBO_0000007",
+        "obo_id": "SBO:0000007",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000007?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000007/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000007/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000007/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000007/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000007/jstree"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000007/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000008",
+        "lang": "en",
+        "description": [
+            "Basic assumptions that underlie a mathematical model."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "obsolete modelling framework",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": false,
+        "is_root": false,
+        "short_form": "SBO_0000008",
+        "obo_id": "SBO:0000008",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000008?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000008/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000008/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000008/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000008/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000008/jstree"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000008/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000009",
+        "lang": "en",
+        "description": [
+            "Synonym: reaction rate constant "
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "kinetic constant",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000009",
+        "obo_id": "SBO:0000009",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000009/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000010",
+        "lang": "en",
+        "description": [
+            "Substance consumed by a chemical reaction. Reactants react with each other to form the products of a chemical reaction. In a chemical equation the Reactants are the elements or compounds on the left hand side of the reaction equation. A reactant can be consumed and produced by the same reaction, its global quantity remaining unchanged."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "reactant",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000010",
+        "obo_id": "SBO:0000010",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000010/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000011",
+        "lang": "en",
+        "description": [
+            "Substance that is produced in a reaction. In a chemical\nequation the Products are the elements or compounds on the right hand side\nof the reaction equation. A product can be produced and consumed by the\nsame reaction, its global quantity remaining unchanged."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "product",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000011",
+        "obo_id": "SBO:0000011",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000011/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000012",
+        "lang": "en",
+        "description": [
+            "The Law of Mass Action, first expressed by Waage and Guldberg in 1864 (Waage, P.; Guldberg, C. M. Forhandlinger: Videnskabs-Selskabet i Christiana 1864, 35) states that the speed of a chemical reaction is proportional to the quantity of the reacting substances. More formally, the change of a product quantity is proportional to the product of reactant activities. In the case of a reaction occurring in a gas phase, the activities are equal to the partial pressures. In the case of a well-stirred aqueous medium, the activities are equal to the concentrations. In the case of discrete kinetic description, the quantity are expressed in number of molecules and the relevant volume are implicitely embedded in the kinetic constant."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "mass action rate law",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000012",
+        "obo_id": "SBO:0000012",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000012/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000013",
+        "lang": "en",
+        "description": [
+            "Substance that accelerates the velocity of a chemical reaction without itself being consumed or transformed. This effect is achieved by lowering the free energy of the transition state."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "catalyst",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000013",
+        "obo_id": "SBO:0000013",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000013/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000014",
+        "lang": "en",
+        "description": [
+            "A protein that catalyzes a chemical reaction. The word comes from en (\"at\" or \"in\") and simo (\"leaven\" or \"yeast\")."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "enzyme",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": false,
+        "is_root": false,
+        "short_form": "SBO_0000014",
+        "obo_id": "SBO:0000014",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000014?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000014/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000014/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000014/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000014/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000014/jstree"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000014/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000015",
+        "lang": "en",
+        "description": [
+            "Molecule which is acted upon by an enzyme. The substrate binds with the enzyme's active site, and the enzyme catalyzes a chemical reaction involving the substrate."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "substrate",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000015",
+        "obo_id": "SBO:0000015",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000015/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000016",
+        "lang": "en",
+        "description": [
+            "Numerical parameter that quantifies the velocity of a chemical reaction involving only one reactant.\n"
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "unimolecular rate constant",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000016",
+        "obo_id": "SBO:0000016",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000016/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000017",
+        "lang": "en",
+        "description": [
+            "Numerical parameter that quantifies the velocity of a chemical reaction involving two reactants."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "bimolecular rate constant",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000017",
+        "obo_id": "SBO:0000017",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000017/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000018",
+        "lang": "en",
+        "description": [
+            "Numerical parameter that quantifies the velocity of a chemical reaction involving three reactants.\n"
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "trimolecular rate constant",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000018",
+        "obo_id": "SBO:0000018",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000018/graph"
+            }
+        }
+    },
+    {
+        "iri": "http://biomodels.net/SBO/SBO_0000019",
+        "lang": "en",
+        "description": [
+            "Substance that changes the velocity of a process without\nitself being consumed or transformed by the reaction."
+        ],
+        "synonyms": [],
+        "annotation": {},
+        "label": "modifier",
+        "ontology_name": "sbo",
+        "ontology_prefix": "SBO",
+        "ontology_iri": "http://biomodels.net/SBO/",
+        "is_obsolete": false,
+        "term_replaced_by": null,
+        "is_defining_ontology": false,
+        "has_children": true,
+        "is_root": false,
+        "short_form": "SBO_0000019",
+        "obo_id": "SBO:0000019",
+        "in_subset": null,
+        "obo_definition_citation": null,
+        "obo_xref": null,
+        "obo_synonym": null,
+        "is_preferred_root": false,
+        "_links": {
+            "self": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019?lang=en"
+            },
+            "parents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/parents"
+            },
+            "ancestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/ancestors"
+            },
+            "hierarchicalParents": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/hierarchicalParents"
+            },
+            "hierarchicalAncestors": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/hierarchicalAncestors"
+            },
+            "jstree": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/jstree"
+            },
+            "children": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/children"
+            },
+            "descendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/descendants"
+            },
+            "hierarchicalChildren": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/hierarchicalChildren"
+            },
+            "hierarchicalDescendants": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/hierarchicalDescendants"
+            },
+            "graph": {
+                "href": "https://www.ebi.ac.uk/ols4/api/ontologies/sbo/terms/http%253A%252F%252Fbiomodels.net%252FSBO%252FSBO_0000019/graph"
+            }
+        }
+    }
+]
