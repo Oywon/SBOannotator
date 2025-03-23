@@ -1,4 +1,4 @@
----
+
 
 ```markdown
 # SBOannotator: Automated SBO Term Annotation Tool
