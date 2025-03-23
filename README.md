@@ -96,7 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, please contact:
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
+- **Your Name**: [oywonislam999@gmail.com](mailto:oywonislma999@gmail.com)
 - **GitHub**: [Oywon](https://github.com/Oywon)
 ```
 
@@ -125,6 +125,4 @@ For questions or feedback, please contact:
    git commit -m "Updated README.md with standard template"
    git push origin main
    ```
-3. **Verify**: Check your GitHub repository to ensure the `README.md` file looks good.
 
----
